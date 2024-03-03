@@ -3,8 +3,9 @@ This repo contains all the notes and URLs to prepare for the AWS Certified Solut
 
 ### Table of Contents
 * 01-Getting Started with AWS
-    * [01-]()
-    * []()
+    * [01-Region, AZ & Edge Locations](https://www.linkedin.com/pulse/awss-global-infrastructure-how-regions-zones-edge-locations-nair/)
+    * [02-AWS Global Infra Map](https://aws.amazon.com/about-aws/global-infrastructure/)
+* 02-AWS IAM & CLI
     * []()
     * []()
     * []()
