@@ -2,10 +2,10 @@
 This repo contains all the notes and URLs to prepare for the AWS Certified Solutions Architect Associate Exam 
 
 ### Table of Contents
-* 01-Getting Started with AWS
-    * [01-Region, AZ & Edge Locations](https://www.linkedin.com/pulse/awss-global-infrastructure-how-regions-zones-edge-locations-nair/)
-    * [02-AWS Global Infra Map](https://aws.amazon.com/about-aws/global-infrastructure/)
-* 02-AWS IAM & CLI
+* 01-Introduction
+    * [01-What is AWS?](https://aws.amazon.com/what-is-aws/)
+    * [02-Why AWS?](https://aws.amazon.com/application-hosting/benefits/)
+* 02-Service - Networking
     * []()
     * []()
     * []()
